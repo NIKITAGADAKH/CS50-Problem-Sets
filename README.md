@@ -77,6 +77,26 @@ Through this course, I've developed:
 A huge thank you to the [CS50](https://cs50.harvard.edu/x/) team for creating such a powerful foundation for aspiring engineers.  
 
 
+# 💻 CS50x Notes & Problem Sets
+
+Welcome to my CS50x Learning Repository — a collection of notes, problem set explanations, and concepts I’ve learned while studying Harvard’s CS50 course.
+
+
+
+
+## 📘 Notes Index
+
+| Week | Topic | File |
+|------|--------|------|
+| 0 | Computer Science Basics | [01. Computer Science](Notes/01.%20Computer%20Science.md) |
+| 1 | C Language | [02. C](Notes/02.%20C.md) |
+| 2 | Arrays | [03. Arrays](Notes/03.%20Arrays.md) |
+| 3 | Algorithms | [04. Algorithms](Notes/04.%20Algorithms.md) |
+
+
+
+
+
 ### 👩‍💻 Author
 Nikita Gadakh  
 🎓 M.A. Clinical Psychology | 💻 Aspiring Software Engineer  
