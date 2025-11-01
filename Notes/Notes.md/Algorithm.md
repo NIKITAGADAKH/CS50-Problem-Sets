@@ -16,7 +16,7 @@ Then go to that half and repeat.
 This is how we compare algorithms — by how efficient (fast and memory-saving) they are.
 Each of these approaches could be called algorithms. The speed of each of these algorithms can be pictured as follows in what is called **big-o**
 
-![algoritham]("C:\Users\gadak\OneDrive\Documents\GitHub\CS50-Problem-Sets\Notes\Notes\assets\Screenshot_1-11-2025_125218_cs50.harvard.edu.jpeg")
+![Algorithm Illustration](./assets/algorithm.jpeg.jpeg)
 
 Notice that the first algorithm, highlighted in red, has a big-O of n because if there are 100 names in the phone book, it could take up to 100 tries to find the correct name. The second algorithm, where two pages were searched at a time, has a big-O of n/2 because we searched twice as fast through the pages. The final algorithm has a big-O of log2n, as doubling the problem would only result in one more step to solve the problem.
 
